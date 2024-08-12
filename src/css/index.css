@@ -8,6 +8,7 @@
     --text-color-primary: #291B1A;
     --text-color-secondary: #573A37;
     --text-color-on-bg: #F0E8C2;
+    --margin-button: 4px;
     --font: "Alice", sans-serif;
 }
 
@@ -23,7 +24,7 @@ body{
     margin: 50px;
     font-family: var(--font);
     background-color: var(--background-color);
-    background-image: url(/assets/img/bg-image.svg);
+    background-image: url("../../assets/img/bg-image.svg");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -32,12 +33,12 @@ h1{
     font: normal 400 2.5em var(--font);
     color: var(--text-color-primary);
     text-align: left;
-    margin-bottom: 4px;
+    margin-bottom: var(--margin-button);
 }
 
 h2{
     font: normal 400 1.5em var(--font);
-    margin-bottom: 4px;
+    margin-bottom: var(--margin-button);
     color: var(--text-color-primary);
 }
 
