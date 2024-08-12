@@ -9,6 +9,8 @@
     --text-color-secondary: #573A37;
     --text-color-on-bg: #F0E8C2;
     --margin-button: 4px;
+    --line-height: 150%;
+    --width: 100%;
     --font: "Alice", sans-serif;
 }
 
@@ -16,6 +18,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    line-height: var(--line-height);
 }
 
 body{
@@ -54,7 +57,7 @@ main{
 }
 
 section{
-    width: 100%;
+    width: var(--width);
 }
 
 .container_card{
@@ -63,8 +66,6 @@ section{
     margin: 0 auto;
     border-radius: 24px;
     padding: 24px; 
-    opacity: 100%;
-
 }
 
 .content{
@@ -76,11 +77,10 @@ figure{
 }
 
 img{
-    max-width: 100%;
+    max-width: var(--width);
 }
 
 ul {
-    list-style: disc;
     margin-left: 20px;
     margin-bottom: 24px;
     padding-left: 0;
