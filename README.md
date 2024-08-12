@@ -15,6 +15,17 @@ A página de receitas foi construída utilizando HTML e CSS, com foco em:
 - **HTML5**: Estruturação semântica da página e organização do conteúdo.
 - **CSS3**: Estilização da página, incluindo layouts responsivos e efeitos visuais.
 
+## Trabalhado na Aplicação
+
+- **Estrutura HTML**: Criação e organização do conteúdo com tags semânticas.
+- **Estilizações com CSS**: Aplicação de estilos para melhorar a aparência e a usabilidade.
+- **Fontes**: Utilização de fontes personalizadas para uma tipografia atraente.
+- **Espaçamentos**: Ajuste de margens e preenchimentos para um layout equilibrado.
+- **Imagens**: Inclusão e estilização de imagens para enriquecer o conteúdo visual.
+- **Listas Desordenadas**: Formatação e estilização de listas para melhor apresentação dos itens.
+- **Alterações das Cores dos Textos**: Ajuste das cores para garantir boa legibilidade e contraste.
+- **Alterações dos Pesos dos Textos**: Modificação dos pesos das fontes para enfatizar informações importantes.
+
 ## Objetivos
 
 - **Aprimorar Habilidades em Front-End**: Melhorar o conhecimento em HTML e CSS, aplicando conceitos modernos e boas práticas de desenvolvimento.
@@ -27,9 +38,8 @@ A página de receitas foi construída utilizando HTML e CSS, com foco em:
 
 ## Acesse a Página
 
-Você pode visualizar a página de receitas funcionando através do seguinte link: [Página de Receitas](https://caioquerino.github.io/rocketseat-desafio-pagina-receita/).
+Você pode visualizar a página de receitas funcionando através do seguinte link: [Página de Receita](https://seusite.com/pagina-de-receita).
 
 ## Contato
 
 Para mais informações ou para conectar-se comigo, visite meu perfil no LinkedIn: [Caio Querino](https://www.linkedin.com/in/caio-querino-1257622a5/).
-Visite também o meu [Portfólio](https://caioquerino.github.io/portfolio-caio/#habilidades).
