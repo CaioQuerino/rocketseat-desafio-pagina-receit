@@ -27,7 +27,7 @@ A página de receitas foi construída utilizando HTML e CSS, com foco em:
 
 ## Acesse a Página
 
-Você pode visualizar a página de receitas funcionando através do seguinte link: [Página de Receita](https://caioquerino.github.io/rocketseat-desafio-pagina-receita/).
+Você pode visualizar a página de receitas funcionando através do seguinte link: [Página de Receitas](https://caioquerino.github.io/rocketseat-desafio-pagina-receita/).
 
 ## Contato
 
