@@ -38,8 +38,8 @@ A página de receitas foi construída utilizando HTML e CSS, com foco em:
 
 ## Acesse a Página
 
-Você pode visualizar a página de receitas funcionando através do seguinte link: [Página de Receita](https://seusite.com/pagina-de-receita).
+Você pode visualizar a página de receitas funcionando através do seguinte link: [Página de Receita](https://caioquerino.github.io/rocketseat-desafio-pagina-receita/).
 
 ## Contato
 
-Para mais informações ou para conectar-se comigo, visite meu perfil no LinkedIn: [Caio Querino](https://www.linkedin.com/in/caio-querino-1257622a5/).
+Para mais informações ou para conectar-se comigo, visite meu perfil no LinkedIn: [Caio Querino](https://www.linkedin.com/in/caio-querino-1257622a5/). Visite também o meu [Portfólio](https://caioquerino.github.io/portfolio-caio/#habilidades).
