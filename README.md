@@ -32,3 +32,4 @@ Você pode visualizar a página de receitas funcionando através do seguinte lin
 ## Contato
 
 Para mais informações ou para conectar-se comigo, visite meu perfil no LinkedIn: [Caio Querino](https://www.linkedin.com/in/caio-querino-1257622a5/).
+Visite também o meu [Portfólio](https://caioquerino.github.io/portfolio-caio/#habilidades).
